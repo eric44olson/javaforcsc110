@@ -1,0 +1,6 @@
+Name, Adress, Phone Number, Subject, Grades
+David Smith, 1234 Main String, 4560-980-8900, ENG, 99
+John Smith, 1234 Main String, 4560-980-8900, MATH, 89
+Mary Smith, 1234 Main String, 4560-980-8900, SCS, 98
+Sandy Smith, 1234 Main String, 4560-980-8900, COMP, 100
+Mike Moore, 1234 Main String, 4560-980-8900, COMP, 100
